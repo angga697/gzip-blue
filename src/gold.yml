@@ -1,0 +1,5 @@
+version: "1.0"
+hyper:
+  name: dev
+  enabled: true
+  config: wake
